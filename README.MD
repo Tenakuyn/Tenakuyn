@@ -21,10 +21,10 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠢⠑⠀⡎⡎⣴⡀⠀⡈⢔⢵⡱⢕⣱⣵⡆⣇⢹⣿⣶⣶⣬⣽⡊⡢⡃⡒⡌⢆⢅⢕⠰⡑⡨⠀⠀⠀⠀⠀⠀    |   important public &amp; collaborative open-source
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠃⠩⣾⣿⣇⣦⣬⣼⠰⣿⡿⠻⠿⣿⡪⣾⣿⣿⣿⣿⣿⣷⡢⡑⡑⡌⢆⠕⡰⢑⠐⠀⠀⠀⠀⠀⠀⠀    |   projects of all kinds.
 ⠀⠀⠀⠀⠀⠀⠠⡐⢅⠐⢸⣷⣦⣍⣛⠿⢿⠟⣠⡉⣴⣿⣷⣦⣬⠀⠀⠈⠉⠛⢿⣿⣧⠪⢨⢘⠔⡑⢌⠢⠀⠀⠀⠀⠀⠀⠀⠀    |
-⠀⠀⠀⠀⠀⠠⠑⢌⠢⠁⠙⣿⣿⣿⣿⣿⣶⣾⣿⣧⠸⢿⣿⣿⣻⣀⢀⢁⡀⣾⣶⠼⠟⠣⡱⡈⢂⡤⣅⡑⠀⠀⠀⠀⠀⠀⠀⠀    |   ☰ <b>LATEST ARTICLES</b>  <a href="https://nyu.gg/blog">READ↗</a>
+⠀⠀⠀⠀⠀⠠⠑⢌⠢⠁⠙⣿⣿⣿⣿⣿⣶⣾⣿⣧⠸⢿⣿⣿⣻⣀⢀⢁⡀⣾⣶⠼⠟⠣⡱⡈⢂⡤⣅⡑⠀⠀⠀⠀⠀⠀⠀⠀    |   🗞 <b>LATEST ARTICLES</b>  <a href="https://nyu.gg/blog">READ↗</a>
 ⠀⠀⠀⠀⠀⠀⠈⠀⢀⢀⠀⡹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣬⣙⠻⠿⣷⡾⢃⣀⣠⣴⣴⣵⣰⢥⢮⣯⣯⠇⠁⠀⠀⠀⠀⠀⠀⠀    |      feed paused: maintenance
 ⠀⠀⠀⠀⠀⠀⠀⠠⢂⢂⠂⡂⡘⢿⣿⣯⣿⣻⣿⣿⣿⣿⣿⣿⣿⣷⣶⣴⣿⣿⣿⣿⣻⣗⣽⢵⣯⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀    |
-⠀⠀⠀⠀⠀⠀⠠⢑⢐⠐⡈⠄⡂⠌⠻⣿⣿⣿⣷⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢉⠙⠛⠛⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |   ☰ <b>LATEST COMMITS</b>  <a href="https://nyu.gg/git">SELF-HOSTED↗</a>
+⠀⠀⠀⠀⠀⠀⠠⢑⢐⠐⡈⠄⡂⠌⠻⣿⣿⣿⣷⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢉⠙⠛⠛⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |   🕮 <b>LATEST COMMITS</b>  <a href="https://nyu.gg/git">SELF-HOSTED↗</a>
 ⠀⠀⠀⠀⠀⠠⢁⢂⠂⠌⠄⠅⢂⠁⠄⢨⢻⠿⠿⠿⠿⠿⠿⢿⢿⣛⣟⢝⠠⢀⢂⢌⢆⠢⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |      feed paused: maintenance
 ⠀⠀⠀⠀⠀⠐⡀⠢⠨⢈⠂⠅⠂⠐⡀⣾⣜⠬⢀⢦⣳⣳⠽⠽⡙⡎⡲⡸⠄⠢⡱⡐⢅⠕⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |
 ⠀⠀⠀⠀⠀⢐⠨⠨⢈⠠⠈⡀⠨⠀⠢⠿⢋⣄⣋⠁⡆⡆⡇⡇⡇⡇⡇⠃⠀⠌⡂⢊⠢⠑⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |   <b>:: INFRASTRUCTURE &amp; LINKS</b>  <a href="https://status.nyukaproject.com/">STATUS↗</a>
