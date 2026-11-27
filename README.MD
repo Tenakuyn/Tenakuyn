@@ -21,15 +21,15 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠢⠑⠀⡎⡎⣴⡀⠀⡈⢔⢵⡱⢕⣱⣵⡆⣇⢹⣿⣶⣶⣬⣽⡊⡢⡃⡒⡌⢆⢅⢕⠰⡑⡨⠀⠀⠀⠀⠀⠀    |   important public &amp; collaborative open-source
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠃⠩⣾⣿⣇⣦⣬⣼⠰⣿⡿⠻⠿⣿⡪⣾⣿⣿⣿⣿⣿⣷⡢⡑⡑⡌⢆⠕⡰⢑⠐⠀⠀⠀⠀⠀⠀⠀    |   projects of all kinds.
 ⠀⠀⠀⠀⠀⠀⠠⡐⢅⠐⢸⣷⣦⣍⣛⠿⢿⠟⣠⡉⣴⣿⣷⣦⣬⠀⠀⠈⠉⠛⢿⣿⣧⠪⢨⢘⠔⡑⢌⠢⠀⠀⠀⠀⠀⠀⠀⠀    |
-⠀⠀⠀⠀⠀⠠⠑⢌⠢⠁⠙⣿⣿⣿⣿⣿⣶⣾⣿⣧⠸⢿⣿⣿⣻⣀⢀⢁⡀⣾⣶⠼⠟⠣⡱⡈⢂⡤⣅⡑⠀⠀⠀⠀⠀⠀⠀⠀    |   🗞 <b>LATEST ARTICLES</b>  <a href="https://nyu.gg/blog">READ↗</a>
-⠀⠀⠀⠀⠀⠀⠈⠀⢀⢀⠀⡹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣬⣙⠻⠿⣷⡾⢃⣀⣠⣴⣴⣵⣰⢥⢮⣯⣯⠇⠁⠀⠀⠀⠀⠀⠀⠀    |      feed paused: maintenance
+⠀⠀⠀⠀⠀⠠⠑⢌⠢⠁⠙⣿⣿⣿⣿⣿⣶⣾⣿⣧⠸⢿⣿⣿⣻⣀⢀⢁⡀⣾⣶⠼⠟⠣⡱⡈⢂⡤⣅⡑⠀⠀⠀⠀⠀⠀⠀⠀    |   ☰ <b>LATEST ARTICLES</b>  <a href="https://nyu.gg/blog">READ↗</a>
+⠀⠀⠀⠀⠀⠀⠈⠀⢀⢀⠀⡹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣬⣙⠻⠿⣷⡾⢃⣀⣠⣴⣴⣵⣰⢥⢮⣯⣯⠇⠁⠀⠀⠀⠀⠀⠀⠀    |     feed paused: maintenance
 ⠀⠀⠀⠀⠀⠀⠀⠠⢂⢂⠂⡂⡘⢿⣿⣯⣿⣻⣿⣿⣿⣿⣿⣿⣿⣷⣶⣴⣿⣿⣿⣿⣻⣗⣽⢵⣯⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀    |
-⠀⠀⠀⠀⠀⠀⠠⢑⢐⠐⡈⠄⡂⠌⠻⣿⣿⣿⣷⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢉⠙⠛⠛⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |   🕮 <b>LATEST COMMITS</b>  <a href="https://nyu.gg/git">SELF-HOSTED↗</a>
-⠀⠀⠀⠀⠀⠠⢁⢂⠂⠌⠄⠅⢂⠁⠄⢨⢻⠿⠿⠿⠿⠿⠿⢿⢿⣛⣟⢝⠠⢀⢂⢌⢆⠢⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |      feed paused: maintenance
+⠀⠀⠀⠀⠀⠀⠠⢑⢐⠐⡈⠄⡂⠌⠻⣿⣿⣿⣷⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢉⠙⠛⠛⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |   ☰ <b>LATEST COMMITS</b>  <a href="https://nyu.gg/git">SELF-HOSTED↗</a>
+⠀⠀⠀⠀⠀⠠⢁⢂⠂⠌⠄⠅⢂⠁⠄⢨⢻⠿⠿⠿⠿⠿⠿⢿⢿⣛⣟⢝⠠⢀⢂⢌⢆⠢⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |     feed paused: maintenance
 ⠀⠀⠀⠀⠀⠐⡀⠢⠨⢈⠂⠅⠂⠐⡀⣾⣜⠬⢀⢦⣳⣳⠽⠽⡙⡎⡲⡸⠄⠢⡱⡐⢅⠕⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |
-⠀⠀⠀⠀⠀⢐⠨⠨⢈⠠⠈⡀⠨⠀⠢⠿⢋⣄⣋⠁⡆⡆⡇⡇⡇⡇⡇⠃⠀⠌⡂⢊⠢⠑⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |   <b>:: INFRASTRUCTURE &amp; LINKS</b>  <a href="https://status.nyukaproject.com/">STATUS↗</a>
-⠀⠀⠀⠀⠠⠀⡂⠅⡂⢌⠠⠐⡀⡁⣷⣹⢿⡿⡿⡒⣸⣾⡾⣾⠞⠈⠠⠨⢈⠐⢄⢂⠣⡘⡈⡀⠀⠄⠐⡀⠐⢀⠠⠀⠀⠀⠀⠀    |      status: <b>DOWN!</b> · back online 2027-01-01   
-⠀⠀⠀⠀⠐⠀⡀⢂⠂⠂⡀⠂⠄⢀⣿⣨⣶⣯⡶⣷⡙⢗⠋⢀⠀⠌⠌⠌⠄⢅⠕⢌⢊⠢⠡⠨⠐⢈⠠⢀⠡⢀⠐⢀⠁⠄⢀⠀    |      links: <a href="https://nyu.gg">NYU.GG↗</a> · <a href="https://www.nyuka.net">NYUKA.NET↗</a> · <a href="https://www.nyukaproject.com">NYUKAPROJECT.COM↗</a>
+⠀⠀⠀⠀⠀⢐⠨⠨⢈⠠⠈⡀⠨⠀⠢⠿⢋⣄⣋⠁⡆⡆⡇⡇⡇⡇⡇⠃⠀⠌⡂⢊⠢⠑⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |   🗲 <b>INFRASTRUCTURE &amp; LINKS</b>  <a href="https://status.nyukaproject.com/">STATUS↗</a>
+⠀⠀⠀⠀⠠⠀⡂⠅⡂⢌⠠⠐⡀⡁⣷⣹⢿⡿⡿⡒⣸⣾⡾⣾⠞⠈⠠⠨⢈⠐⢄⢂⠣⡘⡈⡀⠀⠄⠐⡀⠐⢀⠠⠀⠀⠀⠀⠀    |     status: <b>DOWN!</b> · back online 2027-01-01   
+⠀⠀⠀⠀⠐⠀⡀⢂⠂⠂⡀⠂⠄⢀⣿⣨⣶⣯⡶⣷⡙⢗⠋⢀⠀⠌⠌⠌⠄⢅⠕⢌⢊⠢⠡⠨⠐⢈⠠⢀⠡⢀⠐⢀⠁⠄⢀⠀    |     links: <a href="https://nyu.gg">NYU.GG↗</a> · <a href="https://www.nyuka.net">NYUKA.NET↗</a> · <a href="https://www.nyukaproject.com">NYUKAPROJECT.COM↗</a>
 ⠀⠀⡀⠁⢈⠀⡀⢐⠈⠠⠐⢈⠠⠨⢳⣿⣽⣰⡵⠟⠡⠐⠈⠠⠨⡈⡂⠅⢅⢑⠌⡢⢑⠨⠨⢈⠌⡀⠄⠠⠠⠀⢂⠐⠠⠈⡀⠀    | 
 ⠀⠀⠄⠈⡀⢀⠂⠠⠁⠐⢈⠀⢄⣌⣪⣪⡃⠑⠠⠈⠄⠈⠄⠅⠁⡂⠄⡊⡐⠄⠅⢂⠂⢌⢐⢁⢐⠀⢂⠐⡀⠂⠄⠂⡀⠁⠀⠀    
 ⠀⠀⠂⠀⠄⠂⠄⠡⠀⢈⠠⡠⢟⢾⢽⡚⠀⡈⠄⢁⠈⠄⠅⢊⠐⠄⡁⡂⠄⠅⡨⠐⠨⢐⢐⢐⢐⠐⡀⠠⠐⠈⠠⠐⠀⠈⠀⠀    
