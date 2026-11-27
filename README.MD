@@ -1,14 +1,33 @@
-# $\textcolor{yellow}{This\ is\ a\ Big\ Title}$
-
-
-
-
-
-
 # ${{\color{yellow}\small{\texttt{ ./nyu.sh\ --print-gh-profile\\_\}}}}$
 
 
+<pre>
+<i>v1.0</i>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⡄⡔⢔⠔⡔⢔⠠⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⡀⢄⠄⡄⡄⡄⢄⢀⠀⠀⠀⠀⠀⠀⢠⠸⡘⡜⢌⢎⠪⡊⡪⡨⠂⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⡀⢄⠄⡄⢄⠄⢄⡊⡪⡨⡸⢰⢑⠕⡜⢌⢎⠪⡊⡪⡠⠀⠀⡨⢢⠣⡣⢱⢑⢅⠣⡑⠈⠀⠀⠀       <b style="color: red !important;">[   github.com · <ins>NyukaProject</ins> · README.MD   ]</b>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠑⠘⠨⢂⢃⢪⠰⡑⡕⢜⢌⢪⠸⡐⡕⡱⢸⠨⡢⢣⢑⠕⡌⡪⡐⡌⢆⠣⢊⢊⠔⡠⡡⢠⠠⠀⠀⠀        
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⢔⠢⡊⡆⡣⠱⡘⢔⠅⡕⢅⢣⠢⡣⡑⢕⠜⢔⢅⠣⡊⡢⡱⠨⢄⠑⠑⠐⠑⠑⠈⠀⠀⠀⠀⠀    
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢪⢘⠌⡪⡨⠢⡊⢎⢜⠰⡑⢜⠌⡆⡣⢪⢘⢌⢎⢢⠱⡡⠣⡑⢜⠸⡨⠪⡐⠀⠀⠀⠀⠀⠀⠀⠀⠀    |
+⠀⠀⠀⠀⠀⡀⢀⠠⡐⡑⢌⠢⡑⡌⡌⡪⡨⠢⡢⠣⡑⡅⢕⢌⢊⠆⡕⢌⠆⡕⡱⡘⢜⢘⢌⢪⢘⢌⢪⢀⠀⠀⠀⠀⠀⠀⠀⠀    |   <b>Greetings, just call me Nyu!</b>
+⠀⠀⠀⠀⠀⠀⠀⠁⢂⢐⢢⢑⠅⢆⢕⠰⡘⢌⠔⢅⠣⡊⡢⡑⢅⢕⠸⢐⠕⢌⠂⡪⠪⡨⡊⡢⡑⡅⢕⢑⠄⠀⠀⠀⠀⠀⠀⠀    |   I am a senior full-stack web/software engineer*.
+⠀⠀⠀⠀⠀⠀⢀⠰⡐⡱⢐⢅⠪⡂⢆⢕⠨⡢⡑⠅⡱⢨⠢⣑⠱⡐⢕⢡⠱⣡⠀⡕⡱⢨⢊⢢⠱⡘⢌⠢⢅⠀⠀⠀⠀⠀⠀⠀    |   <i>(*well, that's what I say to keep it simple.)</i>
+⠀⠀⠀⠀⠀⢀⢐⢑⠨⠠⡑⢔⢑⠌⢆⠢⢃⣦⣌⢪⠸⡐⡕⢄⢣⢑⠡⣢⣿⣾⣇⢌⢌⢆⠕⢔⢅⠣⡑⡑⢕⠀⠀⠀⠀⠀⠀⠀    |
+⠀⠀⠀⠀⠀⠐⠁⠀⢀⠪⡨⠂⢆⠣⡅⠻⣿⣏⢢⢣⢣⢣⠣⡣⡣⡡⠾⠿⣿⣿⣷⠨⡢⠢⡣⡑⢔⠅⢕⢡⢑⠅⠀⠀⠀⠀⠀⠀    |   Welcome to my GitHub! Here you'll find my most
+⠀⠀⠀⠀⠀⠀⠀⠀⠢⠑⠀⡎⡎⣴⡀⠀⡈⢔⢵⡱⢕⣱⣵⡆⣇⢹⣿⣶⣶⣬⣽⡊⡢⡃⡒⡌⢆⢅⢕⠰⡑⡨⠀⠀⠀⠀⠀⠀    |   important public &amp; collaborative open-source
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠃⠩⣾⣿⣇⣦⣬⣼⠰⣿⡿⠻⠿⣿⡪⣾⣿⣿⣿⣿⣿⣷⡢⡑⡑⡌⢆⠕⡰⢑⠐⠀⠀⠀⠀⠀⠀⠀    |   projects of all kinds.
+⠀⠀⠀⠀⠀⠀⠠⡐⢅⠐⢸⣷⣦⣍⣛⠿⢿⠟⣠⡉⣴⣿⣷⣦⣬⠀⠀⠈⠉⠛⢿⣿⣧⠪⢨⢘⠔⡑⢌⠢⠀⠀⠀⠀⠀⠀⠀⠀    |
+⠀⠀⠀⠀⠀⠠⠑⢌⠢⠁⠙⣿⣿⣿⣿⣿⣶⣾⣿⣧⠸⢿⣿⣿⣻⣀⢀⢁⡀⣾⣶⠼⠟⠣⡱⡈⢂⡤⣅⡑⠀⠀⠀⠀⠀⠀⠀⠀    |   <b>:: LATEST ARTICLES</b>  <a href="h">READ↗</a>
+⠀⠀⠀⠀⠀⠀⠈⠀⢀⢀⠀⡹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣬⣙⠻⠿⣷⡾⢃⣀⣠⣴⣴⣵⣰⢥⢮⣯⣯⠇⠁⠀⠀⠀⠀⠀⠀⠀    |      feed paused: maintenance
+⠀⠀⠀⠀⠀⠀⠀⠠⢂⢂⠂⡂⡘⢿⣿⣯⣿⣻⣿⣿⣿⣿⣿⣿⣿⣷⣶⣴⣿⣿⣿⣿⣻⣗⣽⢵⣯⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀    |
+⠀⠀⠀⠀⠀⠀⠠⢑⢐⠐⡈⠄⡂⠌⠻⣿⣿⣿⣷⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢉⠙⠛⠛⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |   <b>:: LATEST COMMITS</b>  <a href="h">SELF-HOSTED↗</a>
+⠀⠀⠀⠀⠀⠠⢁⢂⠂⠌⠄⠅⢂⠁⠄⢨⢻⠿⠿⠿⠿⠿⠿⢿⢿⣛⣟⢝⠠⢀⢂⢌⢆⠢⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |      feed paused: maintenance
+⠀⠀⠀⠀⠀⠐⡀⠢⠨⢈⠂⠅⠂⠐⡀⣾⣜⠬⢀⢦⣳⣳⠽⠽⡙⡎⡲⡸⠄⠢⡱⡐⢅⠕⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |
+⠀⠀⠀⠀⠀⢐⠨⠨⢈⠠⠈⡀⠨⠀⠢⠿⢋⣄⣋⠁⡆⡆⡇⡇⡇⡇⡇⠃⠀⠌⡂⢊⠢⠑⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |   <b>:: INFRASTRUCTURE &amp; LINKS</b>  <a href="https://status.nyukaproject.com/">STATUS↗</a>
+⠀⠀⠀⠀⠠⠀⡂⠅⡂⢌⠠⠐⡀⡁⣷⣹⢿⡿⡿⡒⣸⣾⡾⣾⠞⠈⠠⠨⢈⠐⢄⢂⠣⡘⡈⡀⠀⠄⠐⡀⠐⢀⠠⠀⠀⠀⠀⠀    |      status: <b>DOWN</b> ⚠ back online 2027-01-01
+⠀⠀⠀⠀⠐⠀⡀⢂⠂⠂⡀⠂⠄⢀⣿⣨⣶⣯⡶⣷⡙⢗⠋⢀⠀⠌⠌⠌⠄⢅⠕⢌⢊⠢⠡⠨⠐⢈⠠⢀⠡⢀⠐⢀⠁⠄⢀⠀    |      links: <a href="https://nyu.gg">NYU.GG↗</a> · <a href="https://www.nyuka.net">NYUKA.NET↗</a> · <a href="https://www.nyukaproject.com">NYUKAPROJECT.COM↗</a>
+⠀⠀⡀⠁⢈⠀⡀⢐⠈⠠⠐⢈⠠⠨⢳⣿⣽⣰⡵⠟⠡⠐⠈⠠⠨⡈⡂⠅⢅⢑⠌⡢⢑⠨⠨⢈⠌⡀⠄⠠⠠⠀⢂⠐⠠⠈⡀⠀    | 
+⠀⠀⠄⠈⡀⢀⠂⠠⠁⠐⢈⠀⢄⣌⣪⣪⡃⠑⠠⠈⠄⠈⠄⠅⠁⡂⠄⡊⡐⠄⠅⢂⠂⢌⢐⢁⢐⠀⢂⠐⡀⠂⠄⠂⡀⠁⠀⠀    
+⠀⠀⠂⠀⠄⠂⠄⠡⠀⢈⠠⡠⢟⢾⢽⡚⠀⡈⠄⢁⠈⠄⠅⢊⠐⠄⡁⡂⠄⠅⡨⠐⠨⢐⢐⢐⢐⠐⡀⠠⠐⠈⠠⠐⠀⠈⠀⠀    
 
-
-
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}GitHub}$$
+     🤍 FOSS lover, contributor and creator
+</pre>
