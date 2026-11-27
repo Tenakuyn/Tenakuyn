@@ -28,8 +28,8 @@
 ⠀⠀⠀⠀⠀⠠⢁⢂⠂⠌⠄⠅⢂⠁⠄⢨⢻⠿⠿⠿⠿⠿⠿⢿⢿⣛⣟⢝⠠⢀⢂⢌⢆⠢⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |     feed paused: maintenance
 ⠀⠀⠀⠀⠀⠐⡀⠢⠨⢈⠂⠅⠂⠐⡀⣾⣜⠬⢀⢦⣳⣳⠽⠽⡙⡎⡲⡸⠄⠢⡱⡐⢅⠕⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |
 ⠀⠀⠀⠀⠀⢐⠨⠨⢈⠠⠈⡀⠨⠀⠢⠿⢋⣄⣋⠁⡆⡆⡇⡇⡇⡇⡇⠃⠀⠌⡂⢊⠢⠑⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |   🗲 <b>INFRASTRUCTURE &amp; LINKS</b>  <a href="https://status.nyukaproject.com/">STATUS↗</a>
-⠀⠀⠀⠀⠠⠀⡂⠅⡂⢌⠠⠐⡀⡁⣷⣹⢿⡿⡿⡒⣸⣾⡾⣾⠞⠈⠠⠨⢈⠐⢄⢂⠣⡘⡈⡀⠀⠄⠐⡀⠐⢀⠠⠀⠀⠀⠀⠀    |     status: <b>DOWN!</b> · back online 2027-01-01   
-⠀⠀⠀⠀⠐⠀⡀⢂⠂⠂⡀⠂⠄⢀⣿⣨⣶⣯⡶⣷⡙⢗⠋⢀⠀⠌⠌⠌⠄⢅⠕⢌⢊⠢⠡⠨⠐⢈⠠⢀⠡⢀⠐⢀⠁⠄⢀⠀    |     links: <a href="https://nyu.gg">NYU.GG↗</a> · <a href="https://www.nyuka.net">NYUKA.NET↗</a> · <a href="https://www.nyukaproject.com">NYUKAPROJECT.COM↗</a>
+⠀⠀⠀⠀⠠⠀⡂⠅⡂⢌⠠⠐⡀⡁⣷⣹⢿⡿⡿⡒⣸⣾⡾⣾⠞⠈⠠⠨⢈⠐⢄⢂⠣⡘⡈⡀⠀⠄⠐⡀⠐⢀⠠⠀⠀⠀⠀⠀    |      status: <b>DOWN!</b> · back online 2027-01-01   
+⠀⠀⠀⠀⠐⠀⡀⢂⠂⠂⡀⠂⠄⢀⣿⣨⣶⣯⡶⣷⡙⢗⠋⢀⠀⠌⠌⠌⠄⢅⠕⢌⢊⠢⠡⠨⠐⢈⠠⢀⠡⢀⠐⢀⠁⠄⢀⠀    |      links: <a href="https://nyu.gg">NYU.GG↗</a> · <a href="https://www.nyuka.net">NYUKA.NET↗</a> · <a href="https://www.nyukaproject.com">NYUKAPROJECT.COM↗</a>
 ⠀⠀⡀⠁⢈⠀⡀⢐⠈⠠⠐⢈⠠⠨⢳⣿⣽⣰⡵⠟⠡⠐⠈⠠⠨⡈⡂⠅⢅⢑⠌⡢⢑⠨⠨⢈⠌⡀⠄⠠⠠⠀⢂⠐⠠⠈⡀⠀    | 
 ⠀⠀⠄⠈⡀⢀⠂⠠⠁⠐⢈⠀⢄⣌⣪⣪⡃⠑⠠⠈⠄⠈⠄⠅⠁⡂⠄⡊⡐⠄⠅⢂⠂⢌⢐⢁⢐⠀⢂⠐⡀⠂⠄⠂⡀⠁⠀⠀    
 ⠀⠀⠂⠀⠄⠂⠄⠡⠀⢈⠠⡠⢟⢾⢽⡚⠀⡈⠄⢁⠈⠄⠅⢊⠐⠄⡁⡂⠄⠅⡨⠐⠨⢐⢐⢐⢐⠐⡀⠠⠐⠈⠠⠐⠀⠈⠀⠀    
