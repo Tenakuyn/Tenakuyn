@@ -5,7 +5,7 @@
 
 
 
-# ${{\color{yellow}\small{\texttt{  readme.md\ \}}}}$
+# ${{\color{yellow}\small{\texttt{ \$ nyu.sh --print-gh-profile_\ \}}}}$
 
 
 
