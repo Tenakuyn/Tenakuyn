@@ -22,12 +22,12 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠃⠩⣾⣿⣇⣦⣬⣼⠰⣿⡿⠻⠿⣿⡪⣾⣿⣿⣿⣿⣿⣷⡢⡑⡑⡌⢆⠕⡰⢑⠐⠀⠀⠀⠀⠀⠀⠀    |   projects of all kinds.
 ⠀⠀⠀⠀⠀⠀⠠⡐⢅⠐⢸⣷⣦⣍⣛⠿⢿⠟⣠⡉⣴⣿⣷⣦⣬⠀⠀⠈⠉⠛⢿⣿⣧⠪⢨⢘⠔⡑⢌⠢⠀⠀⠀⠀⠀⠀⠀⠀    |
 ⠀⠀⠀⠀⠀⠠⠑⢌⠢⠁⠙⣿⣿⣿⣿⣿⣶⣾⣿⣧⠸⢿⣿⣿⣻⣀⢀⢁⡀⣾⣶⠼⠟⠣⡱⡈⢂⡤⣅⡑⠀⠀⠀⠀⠀⠀⠀⠀    |   ☰ <b>LATEST ARTICLES</b>   <a href="https://nyu.gg/blog">READ↗</a>
-⠀⠀⠀⠀⠀⠀⠈⠀⢀⢀⠀⡹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣬⣙⠻⠿⣷⡾⢃⣀⣠⣴⣴⣵⣰⢥⢮⣯⣯⠇⠁⠀⠀⠀⠀⠀⠀⠀    |     feed paused: [maintenance · back online 2027-01-01]
+⠀⠀⠀⠀⠀⠀⠈⠀⢀⢀⠀⡹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣬⣙⠻⠿⣷⡾⢃⣀⣠⣴⣴⣵⣰⢥⢮⣯⣯⠇⠁⠀⠀⠀⠀⠀⠀⠀    |     feed paused: maintenance · back online 2027-01-01
 ⠀⠀⠀⠀⠀⠀⠀⠠⢂⢂⠂⡂⡘⢿⣿⣯⣿⣻⣿⣿⣿⣿⣿⣿⣿⣷⣶⣴⣿⣿⣿⣿⣻⣗⣽⢵⣯⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀    |
 ⠀⠀⠀⠀⠀⠀⠠⢑⢐⠐⡈⠄⡂⠌⠻⣿⣿⣿⣷⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢉⠙⠛⠛⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |   ☰ <b>LATEST COMMITS <i>(all)</i></b>   <a href="https://nyu.gg/git">SELF-HOSTED↗</a>
-⠀⠀⠀⠀⠀⠠⢁⢂⠂⠌⠄⠅⢂⠁⠄⢨⢻⠿⠿⠿⠿⠿⠿⢿⢿⣛⣟⢝⠠⢀⢂⢌⢆⠢⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |     feed paused: [maintenance · back online 2027-01-01]
+⠀⠀⠀⠀⠀⠠⢁⢂⠂⠌⠄⠅⢂⠁⠄⢨⢻⠿⠿⠿⠿⠿⠿⢿⢿⣛⣟⢝⠠⢀⢂⢌⢆⠢⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |     feed paused: maintenance · back online 2027-01-01
 ⠀⠀⠀⠀⠀⠐⡀⠢⠨⢈⠂⠅⠂⠐⡀⣾⣜⠬⢀⢦⣳⣳⠽⠽⡙⡎⡲⡸⠄⠢⡱⡐⢅⠕⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |
-⠀⠀⠀⠀⠀⢐⠨⠨⢈⠠⠈⡀⠨⠀⠢⠿⢋⣄⣋⠁⡆⡆⡇⡇⡇⡇⡇⠃⠀⠌⡂⢊⠢⠑⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |   ☰ <b>INFRASTRUCTURE &amp; LINKS</b>   <a href="https://status.nyukaproject.com/">STATUS↗</a>
+⠀⠀⠀⠀⠀⢐⠨⠨⢈⠠⠈⡀⠨⠀⠢⠿⢋⣄⣋⠁⡆⡆⡇⡇⡇⡇⡇⠃⠀⠌⡂⢊⠢⠑⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |   ☰ <b>SERVICES</b>   <a href="https://status.nyukaproject.com/">STATUS PAGE↗</a>
 ⠀⠀⠀⠀⠠⠀⡂⠅⡂⢌⠠⠐⡀⡁⣷⣹⢿⡿⡿⡒⣸⣾⡾⣾⠞⠈⠠⠨⢈⠐⢄⢂⠣⡘⡈⡀⠀⠄⠐⡀⠐⢀⠠⠀⠀⠀⠀⠀    |     status: <b>MAINTENANCE</b> · uptime: <b>??.???%</b> · 🟠
 ⠀⠀⠀⠀⠐⠀⡀⢂⠂⠂⡀⠂⠄⢀⣿⣨⣶⣯⡶⣷⡙⢗⠋⢀⠀⠌⠌⠌⠄⢅⠕⢌⢊⠢⠡⠨⠐⢈⠠⢀⠡⢀⠐⢀⠁⠄⢀⠀    |     links: <a href="https://nyu.gg">NYU.GG↗</a> · <a href="https://www.nyuka.net">NYUKA.NET↗</a> · <a href="https://www.nyukaproject.com">NYUKAPROJECT.COM↗</a>
 ⠀⠀⡀⠁⢈⠀⡀⢐⠈⠠⠐⢈⠠⠨⢳⣿⣽⣰⡵⠟⠡⠐⠈⠠⠨⡈⡂⠅⢅⢑⠌⡢⢑⠨⠨⢈⠌⡀⠄⠠⠠⠀⢂⠐⠠⠈⡀⠀    | 
