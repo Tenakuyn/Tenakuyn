@@ -5,7 +5,7 @@
 
 
 
-# ${{\color{Goldenrod}\small{\texttt{  NYUKA\ PROJECT\ \}}}}$
+# ${{\color{yellow}\small{\texttt{  readme.md\ \}}}}$
 
 
 
