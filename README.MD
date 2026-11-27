@@ -5,7 +5,7 @@
 
 
 
-# ${{\color{yellow}\small{\texttt{ nyu.sh\ --print-gh-profile\}}}}$
+# ${{\color{yellow}\small{\texttt{ nyu.sh\ --print-gh-profile\\_\}}}}$
 
 
 
